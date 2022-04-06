@@ -2,56 +2,63 @@
  * DIN Next LT Pro Condensed
  */
 @font-face {
-  font-family: 'DIN Next LT Pro Condensed';
-  src: url("../font/DINNextLTPro-UltraLightCond.woff2") format("woff2"), url("../font/DINNextLTPro-UltraLightCond.woff") format("woff");
+  font-family: "DIN Next LT Pro Condensed";
+  src: url("../font/DINNextLTPro-UltraLightCond.woff2") format("woff2"),
+    url("../font/DINNextLTPro-UltraLightCond.woff") format("woff");
   font-weight: 200;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'DIN Next LT Pro Condensed';
-  src: url("../font/DINNextLTPro-LightCondensed.woff2") format("woff2"), url("../font/DINNextLTPro-LightCondensed.woff") format("woff");
+  font-family: "DIN Next LT Pro Condensed";
+  src: url("../font/DINNextLTPro-LightCondensed.woff2") format("woff2"),
+    url("../font/DINNextLTPro-LightCondensed.woff") format("woff");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'DIN Next LT Pro Condensed';
-  src: url("../font/DINNextLTPro-Condensed.woff2") format("woff2"), url("../font/DINNextLTPro-Condensed.woff") format("woff");
+  font-family: "DIN Next LT Pro Condensed";
+  src: url("../font/DINNextLTPro-Condensed.woff2") format("woff2"),
+    url("../font/DINNextLTPro-Condensed.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'DIN Next LT Pro Condensed';
-  src: url("../font/DINNextLTPro-MediumCond.woff2") format("woff2"), url("../font/DINNextLTPro-MediumCond.woff") format("woff");
+  font-family: "DIN Next LT Pro Condensed";
+  src: url("../font/DINNextLTPro-MediumCond.woff2") format("woff2"),
+    url("../font/DINNextLTPro-MediumCond.woff") format("woff");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'DIN Next LT Pro Condensed';
-  src: url("../font/DINNextLTPro-BoldCondensed.woff2") format("woff2"), url("../font/DINNextLTPro-BoldCondensed.woff") format("woff");
+  font-family: "DIN Next LT Pro Condensed";
+  src: url("../font/DINNextLTPro-BoldCondensed.woff2") format("woff2"),
+    url("../font/DINNextLTPro-BoldCondensed.woff") format("woff");
   font-weight: bold;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'DIN Next LT Pro Condensed';
-  src: url("../font/DINNextLTPro-BlackCondensed.woff2") format("woff2"), url("../font/DINNextLTPro-BlackCondensed.woff") format("woff");
+  font-family: "DIN Next LT Pro Condensed";
+  src: url("../font/DINNextLTPro-BlackCondensed.woff2") format("woff2"),
+    url("../font/DINNextLTPro-BlackCondensed.woff") format("woff");
   font-weight: 800;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'DIN Next LT Pro Condensed';
-  src: url("../font/DINNextLTPro-HeavyCondensed.woff2") format("woff2"), url("../font/DINNextLTPro-HeavyCondensed.woff") format("woff");
+  font-family: "DIN Next LT Pro Condensed";
+  src: url("../font/DINNextLTPro-HeavyCondensed.woff2") format("woff2"),
+    url("../font/DINNextLTPro-HeavyCondensed.woff") format("woff");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
@@ -61,104 +68,117 @@
  * DIN Next LT Pro
  */
 @font-face {
-  font-family: 'DIN Next LT Pro';
-  src: url("../font/DINNextLTPro-UltraLight.woff2") format("woff2"), url("../font/DINNextLTPro-UltraLight.woff") format("woff");
+  font-family: "DIN Next LT Pro";
+  src: url("../font/DINNextLTPro-UltraLight.woff2") format("woff2"),
+    url("../font/DINNextLTPro-UltraLight.woff") format("woff");
   font-weight: 200;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'DIN Next LT Pro';
-  src: url("../font/DINNextLTPro-UltraLightIt.woff2") format("woff2"), url("../font/DINNextLTPro-UltraLightIt.woff") format("woff");
+  font-family: "DIN Next LT Pro";
+  src: url("../font/DINNextLTPro-UltraLightIt.woff2") format("woff2"),
+    url("../font/DINNextLTPro-UltraLightIt.woff") format("woff");
   font-weight: 200;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'DIN Next LT Pro';
-  src: url("../font/DINNextLTPro-Light.woff2") format("woff2"), url("../font/DINNextLTPro-Light.woff") format("woff");
+  font-family: "DIN Next LT Pro";
+  src: url("../font/DINNextLTPro-Light.woff2") format("woff2"),
+    url("../font/DINNextLTPro-Light.woff") format("woff");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'DIN Next LT Pro';
-  src: url("../font/DINNextLTPro-LightItalic.woff2") format("woff2"), url("../font/DINNextLTPro-LightItalic.woff") format("woff");
+  font-family: "DIN Next LT Pro";
+  src: url("../font/DINNextLTPro-LightItalic.woff2") format("woff2"),
+    url("../font/DINNextLTPro-LightItalic.woff") format("woff");
   font-weight: 300;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'DIN Next LT Pro';
-  src: url("../font/DINNextLTPro-Regular.woff2") format("woff2"), url("../font/DINNextLTPro-Regular.woff") format("woff");
+  font-family: "DIN Next LT Pro";
+  src: url("../font/DINNextLTPro-Regular.woff2") format("woff2"),
+    url("../font/DINNextLTPro-Regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'DIN Next LT Pro';
-  src: url("../font/DINNextLTPro-Medium.woff2") format("woff2"), url("../font/DINNextLTPro-Medium.woff") format("woff");
+  font-family: "DIN Next LT Pro";
+  src: url("../font/DINNextLTPro-Medium.woff2") format("woff2"),
+    url("../font/DINNextLTPro-Medium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'DIN Next LT Pro';
-  src: url("../font/DINNextLTPro-MediumItalic.woff2") format("woff2"), url("../font/DINNextLTPro-MediumItalic.woff") format("woff");
+  font-family: "DIN Next LT Pro";
+  src: url("../font/DINNextLTPro-MediumItalic.woff2") format("woff2"),
+    url("../font/DINNextLTPro-MediumItalic.woff") format("woff");
   font-weight: 500;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'DIN Next LT Pro';
-  src: url("../font/DINNextLTPro-Bold.woff2") format("woff2"), url("../font/DINNextLTPro-Bold.woff") format("woff");
+  font-family: "DIN Next LT Pro";
+  src: url("../font/DINNextLTPro-Bold.woff2") format("woff2"),
+    url("../font/DINNextLTPro-Bold.woff") format("woff");
   font-weight: bold;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'DIN Next LT Pro';
-  src: url("../font/DINNextLTPro-BoldItalic.woff2") format("woff2"), url("../font/DINNextLTPro-BoldItalic.woff") format("woff");
+  font-family: "DIN Next LT Pro";
+  src: url("../font/DINNextLTPro-BoldItalic.woff2") format("woff2"),
+    url("../font/DINNextLTPro-BoldItalic.woff") format("woff");
   font-weight: bold;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'DIN Next LT Pro';
-  src: url("../font/DINNextLTPro-Black.woff2") format("woff2"), url("../font/DINNextLTPro-Black.woff") format("woff");
+  font-family: "DIN Next LT Pro";
+  src: url("../font/DINNextLTPro-Black.woff2") format("woff2"),
+    url("../font/DINNextLTPro-Black.woff") format("woff");
   font-weight: 800;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'DIN Next LT Pro';
-  src: url("../font/DINNextLTPro-BlackItalic.woff2") format("woff2"), url("../font/DINNextLTPro-BlackItalic.woff") format("woff");
+  font-family: "DIN Next LT Pro";
+  src: url("../font/DINNextLTPro-BlackItalic.woff2") format("woff2"),
+    url("../font/DINNextLTPro-BlackItalic.woff") format("woff");
   font-weight: 800;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'DIN Next LT Pro';
-  src: url("../font/DINNextLTPro-Heavy.woff2") format("woff2"), url("../font/DINNextLTPro-Heavy.woff") format("woff");
+  font-family: "DIN Next LT Pro";
+  src: url("../font/DINNextLTPro-Heavy.woff2") format("woff2"),
+    url("../font/DINNextLTPro-Heavy.woff") format("woff");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'DIN Next LT Pro';
-  src: url("../font/DINNextLTPro-HeavyItalic.woff2") format("woff2"), url("../font/DINNextLTPro-HeavyItalic.woff") format("woff");
+  font-family: "DIN Next LT Pro";
+  src: url("../font/DINNextLTPro-HeavyItalic.woff2") format("woff2"),
+    url("../font/DINNextLTPro-HeavyItalic.woff") format("woff");
   font-weight: 900;
   font-style: italic;
   font-display: swap;
@@ -175,7 +195,7 @@
 *::before,
 *::after {
   -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -186,7 +206,9 @@
 
 body {
   margin: 0;
-  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+    Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -208,7 +230,12 @@ hr:not([size]) {
   height: 1px;
 }
 
-h6, h5, h4, h3, h2, h1 {
+h6,
+h5,
+h4,
+h3,
+h2,
+h1 {
   margin-top: 0;
   margin-bottom: 0.5rem;
   font-weight: 500;
@@ -354,7 +381,8 @@ a:hover {
   color: #0a58ca;
 }
 
-a:not([href]):not([class]), a:not([href]):not([class]):hover {
+a:not([href]):not([class]),
+a:not([href]):not([class]):hover {
   color: inherit;
   text-decoration: none;
 }
@@ -363,7 +391,8 @@ pre,
 code,
 kbd,
 samp {
-  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
+    "Courier New", monospace;
   font-size: 1em;
   direction: ltr;
   unicode-bidi: bidi-override;
@@ -472,7 +501,7 @@ select {
   text-transform: none;
 }
 
-[role=button] {
+[role="button"] {
   cursor: pointer;
 }
 
@@ -489,16 +518,16 @@ select:disabled {
 }
 
 button,
-[type=button],
-[type=reset],
-[type=submit] {
+[type="button"],
+[type="reset"],
+[type="submit"] {
   -webkit-appearance: button;
 }
 
 button:not(:disabled),
-[type=button]:not(:disabled),
-[type=reset]:not(:disabled),
-[type=submit]:not(:disabled) {
+[type="button"]:not(:disabled),
+[type="reset"]:not(:disabled),
+[type="submit"]:not(:disabled) {
   cursor: pointer;
 }
 
@@ -551,7 +580,7 @@ legend + * {
   height: auto;
 }
 
-[type=search] {
+[type="search"] {
   outline-offset: -2px;
   -webkit-appearance: textfield;
 }
@@ -652,18 +681,18 @@ progress {
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
   -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+  flex-wrap: wrap;
   margin-left: -15px;
   margin-right: -15px;
 }
 
 .col {
   -webkit-box-flex: 1;
-      -ms-flex: 1 0 0px;
-          flex: 1 0 0;
+  -ms-flex: 1 0 0px;
+  flex: 1 0 0;
   padding: 0 15px;
 }
 .modal__overlay {
@@ -682,11 +711,11 @@ progress {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
   }
 }
 
@@ -700,7 +729,7 @@ progress {
   width: 80%;
   min-height: 80%;
   border-radius: 4px;
-  border-bottom: 20px solid #15B3D9;
+  border-bottom: 20px solid #15b3d9;
   background-color: #192652;
   background-image: url(../img/dots-decoration.svg);
   background-position: center bottom 40px;
@@ -712,11 +741,11 @@ progress {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
 }
 
 @-webkit-keyframes mmfadeIn {
@@ -758,44 +787,44 @@ progress {
 @-webkit-keyframes mmslideIn {
   from {
     -webkit-transform: translateY(15%);
-            transform: translateY(15%);
+    transform: translateY(15%);
   }
   to {
     -webkit-transform: translateY(0);
-            transform: translateY(0);
+    transform: translateY(0);
   }
 }
 
 @keyframes mmslideIn {
   from {
     -webkit-transform: translateY(15%);
-            transform: translateY(15%);
+    transform: translateY(15%);
   }
   to {
     -webkit-transform: translateY(0);
-            transform: translateY(0);
+    transform: translateY(0);
   }
 }
 
 @-webkit-keyframes mmslideOut {
   from {
     -webkit-transform: translateY(0);
-            transform: translateY(0);
+    transform: translateY(0);
   }
   to {
     -webkit-transform: translateY(-10%);
-            transform: translateY(-10%);
+    transform: translateY(-10%);
   }
 }
 
 @keyframes mmslideOut {
   from {
     -webkit-transform: translateY(0);
-            transform: translateY(0);
+    transform: translateY(0);
   }
   to {
     -webkit-transform: translateY(-10%);
-            transform: translateY(-10%);
+    transform: translateY(-10%);
   }
 }
 
@@ -809,22 +838,22 @@ progress {
 
 .micromodal-slide[aria-hidden="false"] .modal__overlay {
   -webkit-animation: mmfadeIn 0.3s cubic-bezier(0, 0, 0.2, 1);
-          animation: mmfadeIn 0.3s cubic-bezier(0, 0, 0.2, 1);
+  animation: mmfadeIn 0.3s cubic-bezier(0, 0, 0.2, 1);
 }
 
 .micromodal-slide[aria-hidden="false"] .modal__container {
   -webkit-animation: mmslideIn 0.3s cubic-bezier(0, 0, 0.2, 1);
-          animation: mmslideIn 0.3s cubic-bezier(0, 0, 0.2, 1);
+  animation: mmslideIn 0.3s cubic-bezier(0, 0, 0.2, 1);
 }
 
 .micromodal-slide[aria-hidden="true"] .modal__overlay {
   -webkit-animation: mmfadeOut 0.3s cubic-bezier(0, 0, 0.2, 1);
-          animation: mmfadeOut 0.3s cubic-bezier(0, 0, 0.2, 1);
+  animation: mmfadeOut 0.3s cubic-bezier(0, 0, 0.2, 1);
 }
 
 .micromodal-slide[aria-hidden="true"] .modal__container {
   -webkit-animation: mmslideOut 0.3s cubic-bezier(0, 0, 0.2, 1);
-          animation: mmslideOut 0.3s cubic-bezier(0, 0, 0.2, 1);
+  animation: mmslideOut 0.3s cubic-bezier(0, 0, 0.2, 1);
 }
 
 .micromodal-slide .modal__container,
@@ -835,7 +864,7 @@ progress {
 body {
   width: 100%;
   overflow-x: hidden;
-  font-family: 'DIN Next LT Pro';
+  font-family: "DIN Next LT Pro";
 }
 
 strong em {
@@ -844,14 +873,14 @@ strong em {
 }
 
 mark {
-  color: #15B3D9;
+  color: #15b3d9;
   background-color: transparent;
   padding: 0;
 }
 
 hr {
   height: 1px;
-  background-color: #15B3D9;
+  background-color: #15b3d9;
   margin: 0 auto 30px;
   opacity: 1;
 }
@@ -866,8 +895,8 @@ hr {
   display: -ms-inline-flexbox;
   display: inline-flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   font-size: 18px;
   color: white;
   text-decoration: none;
@@ -889,8 +918,8 @@ hr {
   border-radius: 3px;
   position: absolute;
   left: 0;
-  -webkit-transition: all ease-in-out .15s;
-  transition: all ease-in-out .15s;
+  -webkit-transition: all ease-in-out 0.15s;
+  transition: all ease-in-out 0.15s;
 }
 
 .discover-more::after {
@@ -899,33 +928,37 @@ hr {
   height: 17px;
   left: 13px;
   top: 10px;
-  -webkit-transition: all ease-in-out .15s;
-  transition: all ease-in-out .15s;
+  -webkit-transition: all ease-in-out 0.15s;
+  transition: all ease-in-out 0.15s;
 }
 
-.discover-more:hover, .discover-more:focus {
+.discover-more:hover,
+.discover-more:focus {
   color: white;
 }
 
-.discover-more:hover::before, .discover-more:focus::before {
+.discover-more:hover::before,
+.discover-more:focus::before {
   width: calc(100% + 16px);
-  background-color: #15B3D9;
-  border-color: #15B3D9;
+  background-color: #15b3d9;
+  border-color: #15b3d9;
   z-index: -1;
 }
 
-.discover-more:hover::after, .discover-more:focus::after {
+.discover-more:hover::after,
+.discover-more:focus::after {
   top: 12px;
 }
 
 .discover-more.right::after {
   -webkit-transform: rotate(-90deg);
-          transform: rotate(-90deg);
+  transform: rotate(-90deg);
   left: 12px;
   top: 11px;
 }
 
-.discover-more.right:hover::after, .discover-more.right:focus::after {
+.discover-more.right:hover::after,
+.discover-more.right:focus::after {
   top: 11px;
   left: 16px;
 }
@@ -955,7 +988,7 @@ hr {
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
   color: white;
   width: 100%;
 }
@@ -970,7 +1003,8 @@ hr {
   }
 }
 
-.starting-header h1, .starting-header h2 {
+.starting-header h1,
+.starting-header h2 {
   margin: 0;
 }
 
@@ -1084,7 +1118,7 @@ header p.lead {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+  flex-wrap: wrap;
   margin-left: -20px;
   margin-right: -20px;
 }
@@ -1100,37 +1134,43 @@ header p.lead {
 }
 
 @media screen and (min-width: 768px) and (min-width: 992px) {
-  .portfolio .project-card:first-child, .portfolio .project-card:last-child {
+  .portfolio .project-card:first-child,
+  .portfolio .project-card:last-child {
     width: calc(100% / 3 * 2);
   }
 }
 
 @media screen and (min-width: 768px) {
-  .portfolio .project-card:first-child .wrapper, .portfolio .project-card:last-child .wrapper {
+  .portfolio .project-card:first-child .wrapper,
+  .portfolio .project-card:last-child .wrapper {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-flow: row;
-            flex-flow: row;
+    -ms-flex-flow: row;
+    flex-flow: row;
   }
-  .portfolio .project-card:first-child .wrapper .cover, .portfolio .project-card:last-child .wrapper .cover {
+  .portfolio .project-card:first-child .wrapper .cover,
+  .portfolio .project-card:last-child .wrapper .cover {
     -webkit-box-flex: 2;
-        -ms-flex: 2;
-            flex: 2;
+    -ms-flex: 2;
+    flex: 2;
     height: 100%;
   }
-  .portfolio .project-card:first-child .wrapper .cover::before, .portfolio .project-card:last-child .wrapper .cover::before {
+  .portfolio .project-card:first-child .wrapper .cover::before,
+  .portfolio .project-card:last-child .wrapper .cover::before {
     left: 30px;
     bottom: 30px;
   }
-  .portfolio .project-card:first-child .wrapper .cover::after, .portfolio .project-card:last-child .wrapper .cover::after {
+  .portfolio .project-card:first-child .wrapper .cover::after,
+  .portfolio .project-card:last-child .wrapper .cover::after {
     left: 62px;
     bottom: 60px;
     right: auto;
   }
-  .portfolio .project-card:first-child .wrapper .body, .portfolio .project-card:last-child .wrapper .body {
+  .portfolio .project-card:first-child .wrapper .body,
+  .portfolio .project-card:last-child .wrapper .body {
     -webkit-box-flex: 1;
-        -ms-flex: 1;
-            flex: 1;
+    -ms-flex: 1;
+    flex: 1;
     margin-top: auto;
   }
 }
@@ -1144,8 +1184,8 @@ header p.lead {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-flow: column;
-          flex-flow: column;
+  -ms-flex-flow: column;
+  flex-flow: column;
   height: 100%;
   position: relative;
 }
@@ -1178,9 +1218,10 @@ header p.lead {
   position: absolute;
   height: 17px;
   -webkit-transform: rotate(-90deg);
-          transform: rotate(-90deg);
+  transform: rotate(-90deg);
   right: 53px;
   bottom: -7px;
+  transition: transform linear 0.5s;
 }
 
 .portfolio .project-card .cover img {
@@ -1188,7 +1229,7 @@ header p.lead {
   height: 100%;
   display: block;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 
 .portfolio .project-card .body {
@@ -1231,9 +1272,9 @@ section.ending .part-of {
   color: white;
   text-align: center;
   padding: 213px 0 243px;
-  border-bottom: 20px solid #15B3D9;
+  border-bottom: 20px solid #15b3d9;
   -webkit-transform: translateY(-160px);
-          transform: translateY(-160px);
+  transform: translateY(-160px);
 }
 
 @media screen and (max-width: 768px) {
@@ -1252,14 +1293,14 @@ section.ending .part-of {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+  flex-wrap: wrap;
   margin: 0 -10px;
 }
 
 .team > .col {
   -webkit-box-flex: 1;
-      -ms-flex: 1 0 0%;
-          flex: 1 0 0%;
+  -ms-flex: 1 0 0%;
+  flex: 1 0 0%;
   padding: 10px;
 }
 
@@ -1279,11 +1320,12 @@ section.ending .part-of {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
 }
 
-.team .member .body, .team .member .footer {
+.team .member .body,
+.team .member .footer {
   margin: 50px;
 }
 
@@ -1311,19 +1353,20 @@ section.ending .part-of {
   border-radius: 4px;
   border: 0.5px solid rgba(255, 255, 255, 0.1);
   margin: 8px;
-  -webkit-transition: all ease-in-out .15s;
-  transition: all ease-in-out .15s;
+  -webkit-transition: all ease-in-out 0.15s;
+  transition: all ease-in-out 0.15s;
 }
 
-.team .member .footer a:hover, .team .member .footer a:focus {
-  background-color: #15B3D9;
+.team .member .footer a:hover,
+.team .member .footer a:focus {
+  background-color: #15b3d9;
 }
 
 @media screen and (max-width: 992px) {
   .team .header-col {
     -webkit-box-flex: 0;
-        -ms-flex: 0 0 100%;
-            flex: 0 0 100%;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
     text-align: center;
     margin-bottom: 70px;
   }
@@ -1349,11 +1392,11 @@ section.ending .part-of {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
 .modal form .form-actions .btn {
@@ -1363,8 +1406,8 @@ section.ending .part-of {
 @media screen and (max-width: 768px) {
   .modal form .col {
     -webkit-box-flex: 100%;
-        -ms-flex: 100% 0 0px;
-            flex: 100% 0 0;
+    -ms-flex: 100% 0 0px;
+    flex: 100% 0 0;
   }
 }
 
@@ -1391,9 +1434,10 @@ section.ending .part-of {
   outline: none;
 }
 
-.form-group .form-control:focus ~ label, .form-group .form-control:valid ~ label {
+.form-group .form-control:focus ~ label,
+.form-group .form-control:valid ~ label {
   -webkit-transform: scale(0.8);
-          transform: scale(0.8);
+  transform: scale(0.8);
   bottom: 24px;
 }
 
@@ -1409,8 +1453,8 @@ section.ending .part-of {
   bottom: 18px;
   opacity: 0.5;
   -webkit-transform-origin: left top;
-          transform-origin: left top;
-  -webkit-transition: all ease-in-out .15s;
-  transition: all ease-in-out .15s;
+  transform-origin: left top;
+  -webkit-transition: all ease-in-out 0.15s;
+  transition: all ease-in-out 0.15s;
 }
 /*# sourceMappingURL=style.css.map */
