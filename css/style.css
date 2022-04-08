@@ -719,9 +719,17 @@ progress {
   }
 }
 
+.modal__container .modal__content p {
+  font-size: 1.8rem;
+}
+
 @media screen and (max-width: 768px) {
   .modal__overlay {
     padding: 30px 0;
+  }
+
+  .modal__container .modal__content p {
+    font-size: 1.3rem;
   }
 }
 
@@ -746,6 +754,10 @@ progress {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
+}
+
+.modal__container .modal__content {
+  width: 100%;
 }
 
 @-webkit-keyframes mmfadeIn {
