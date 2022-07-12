@@ -1150,6 +1150,10 @@ header p.lead {
   .portfolio .project-card:nth-child(4n + 0) {
     width: calc(100% / 3 * 2);
   }
+
+  .portfolio .project-card:last-child {
+    width: 100%;
+  }
 }
 
 @media screen and (min-width: 768px) {
