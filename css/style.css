@@ -1281,6 +1281,12 @@ section.ending .part-of {
   margin: 0;
 }
 
+section.ending .part-of a {
+  text-transform: none;
+  text-decoration: none;
+  color: inherit;
+}
+
 .tell-your-story {
   background: url("../img/stars-bg-2.jpg") no-repeat center bottom;
   background-size: cover;
