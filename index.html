@@ -419,7 +419,7 @@
     </main>
 
     <footer class="main-footer">
-      <p>NETOPIA Ventures. All Rights Reserved. © 2022</p>
+      <p>NETOPIA Ventures. All Rights Reserved. © <span id="year"></span></p>
     </footer>
 
     <div
@@ -457,5 +457,8 @@
     <script>
       MicroModal.init();
     </script>
+    <script>
+      document.getElementById("year").innerHTML = new Date().getFullYear();
+      </script>
   </body>
 </html>

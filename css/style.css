@@ -1254,6 +1254,7 @@ header p.lead {
 
 .portfolio .project-card .body .title {
   margin-bottom: 38px;
+  text-decoration: underline;
 }
 
 .portfolio .project-card .body p {
